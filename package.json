@@ -1,0 +1,15 @@
+{
+  "name": "typewriter-cafe",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A coffee-house typewriter game to measure and improve your typing speed.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.3.1"
+  }
+}
